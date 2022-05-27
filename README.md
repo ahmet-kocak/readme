@@ -1,6 +1,6 @@
 ## Hi there. I'm Ahmet...
 
--  I’m currently working on frontend and backend development (JavaScript | React | )
+-  I’m currently working on frontend and backend development.
 - 💬 ( HTML | CSS | JavaScript | React | Redux | Node.js | MongoDB| Express.js | Bootstrap | Github) 
 
 ## 
