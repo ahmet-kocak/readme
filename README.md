@@ -1,7 +1,7 @@
 ## Hi there. I'm Ahmet...
 
 -  I’m currently working on frontend and backend development.
-- 💬 ( HTML | CSS | JavaScript | React | Redux | Node.js | MongoDB| Express.js | Bootstrap | Github) 
+-  ( HTML | CSS | JavaScript | React | Redux | Node.js | MongoDB| Express.js | Bootstrap | Github) 
 
 ## 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-ko%C3%A7ak-39ab89232/) 
